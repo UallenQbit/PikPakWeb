@@ -1,0 +1,36 @@
+body {
+    font-size: 24px;
+    background-color: #eef1f5;
+}
+
+body *::-webkit-scrollbar {
+    height: 0px;
+}
+
+.mdui-table th {
+    line-height: 0px;
+}
+
+.mdui-menu-item > a {
+    height: 36px;
+    line-height: 36px;
+}
+
+.mdui-table-fluid {
+    -webkit-box-shadow: 0 0px 0px 0px rgb(0 0 0), 0 0px 0px 0 rgb(0 0 0), 0 0px 0px 0 rgb(0 0 0);
+    box-shadow: 0 0px 0px 0px rgb(0 0 0), 0 0px 0px 0 rgb(0 0 0), 0 0px 0px 0 rgb(0 0 0);
+}
+
+.mdui-dialog-prompt {
+    max-width: 860px;
+}
+
+.mdui-dialog-actions .mdui-btn {
+    font-weight: 600;
+}
+
+.ProhibitChoose {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
