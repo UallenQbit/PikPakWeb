@@ -294,7 +294,7 @@ $Type = $_GET['Type'];
 
                         <button class='mdui-btn mdui-color-indigo-accent mdui-float-right mdui-ripple' style='margin-right:8px' onclick='window.open("https://t.me/Uallen_Qbit")'><i class='mdui-list-item-icon mdui-icon material-icons'>chat</i> 联系开发者</button>
 
-                        <button class='mdui-btn mdui-color-red mdui-float-right mdui-ripple' style='margin-right:8px' onclick='window.open("https://afd.kinh.cc/")'><i class='mdui-list-item-icon mdui-icon material-icons'>attach_money</i> 支持开发者</button>
+                        <button class='mdui-btn mdui-color-red mdui-float-right mdui-ripple' style='margin-right:8px' onclick='window.open("https://github.com/UallenQbit/PikPakWeb")'><i class='mdui-list-item-icon mdui-icon material-icons'>code</i> 源代码</button>
 
                         <button class='mdui-btn mdui-color-green-600 mdui-float-right mdui-ripple' style='margin-right:8px' onclick='window.open("https://cilishenqi.cc/#search")'><i class='mdui-list-item-icon mdui-icon material-icons'>search</i> 资源搜索</button>
                     </div>
